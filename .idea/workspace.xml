@@ -20,12 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40ce6f63-03dc-4808-8a04-e44b0d1c0b06" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/css/bulma-rtl.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/bulma-rtl.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/bulma-rtl.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/bulma.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/bulma.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/bulma.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +64,8 @@
       <updated>1633997239377</updated>
       <workItem from="1633997242450" duration="1358000" />
       <workItem from="1634084368463" duration="645000" />
-      <workItem from="1634170147435" duration="1015000" />
+      <workItem from="1634170147435" duration="1304000" />
+      <workItem from="1634256148025" duration="302000" />
     </task>
     <servers />
   </component>

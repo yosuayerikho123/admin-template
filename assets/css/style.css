@@ -33,7 +33,7 @@ aside {
     display: block;
     padding: 12px 30px;
     cursor: pointer;
-    color: #3773f1;
+    color: var(--color-secondary);
 }
 
 .sidebar-item-link > i {
@@ -49,14 +49,17 @@ aside {
     padding: 10px 0 10px 73px;
     cursor: pointer;
     font-size: 12px;
+    text-decoration: none;
+    color: #939393;
 }
 
 .sidebar-dropdown > li > a:hover {
     background: #f8f8f8;
 }
 
-.sidebar > .sidebar-item > .active {
-    color: #0da8ee;
+.sidebar > .sidebar-item > .active,
+.sidebar > .sidebar-item > .active:hover {
+    color: var(--color-secondary);
 }
 
 .sidebar-header {
